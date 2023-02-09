@@ -1,0 +1,9 @@
+1.how many arrest took place between 23rd june and 16th july.
+2.how many arrest took place for the month of june and for race white hispanic.
+3.how many assaults took place on teacher that were done by black race.
+4.get the count of case_number where charge_1 type is M.
+5.what are the different charge class.
+6.which race and what charge was assigned to case HX290262.
+7.how many suspended licence charges are present.
+8.how many cases are present for 'ASIAN / PACIFIC ISLANDER' race.
+
