@@ -1,0 +1,8 @@
+1.get the provice name for country as Australia and Canada.
+2.count of provice for country China.
+3.get me the WHO Region for all countries starting wth 'B'.
+4.get me the provice names for all countries which has WHO region as Western Pacific.
+5.get the count of deaths for the month of may for Australia.
+6.how many active cases were reported by China in July.
+7.in which month was most recovered cases reported for France.
+8. get me the count of province that belong to WHO Europe.
